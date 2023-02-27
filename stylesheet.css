@@ -8699,6 +8699,19 @@ input[type="radio"]:checked + label:after {
     border: 2px solid #5846bb;
       z-index: 10;
   }
+
+  .wrapper2 {
+    height: 500px;
+    margin:auto;
+    width: 450px;
+    margin-top: 5%;
+    border-radius: 7px;
+    box-shadow: 0 20px 50px rgba(255,255,255,0.15);
+    background: rgba(255, 255, 255, 0.75);
+    border: 2px solid #5846bb;
+      z-index: 10;
+  }
+
   img{
     float: left;
     width: 380px;
